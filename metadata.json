@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Management System",
+  "description": "A web application for managing restaurant operations including inventory, recipes, sales, and more, using a local JSON-based data store.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
